@@ -1,0 +1,41 @@
+[
+  {
+    "Label": "Nonchurner",
+    "Unique_ItemId": 14,
+    "Unique_TransactionId": 19,
+    "Total_Quantity_per_Unique_ProductCategory": 11.0,
+    "Total_Quantity": 22,
+    "Total_Quantity_per_Unique_Location": 11.0,
+    "Recency": 12,
+    "Total_Value_per_Unique_Location": 436.5,
+    "Total_Value_per_Unique_ProductCategory": 436.5,
+    "Total_Value": 873,
+    "AvgTimeDelta": 4.0
+  },
+  {
+    "Label": "Nonchurner",
+    "Unique_ItemId": 2,
+    "Unique_TransactionId": 2,
+    "Total_Quantity_per_Unique_ProductCategory": 1.5,
+    "Total_Quantity": 3,
+    "Total_Quantity_per_Unique_Location": 1.5,
+    "Recency": 16,
+    "Total_Value_per_Unique_Location": 67.5,
+    "Total_Value_per_Unique_ProductCategory": 67.5,
+    "Total_Value": 135,
+    "AvgTimeDelta": 13.5
+  },
+  {
+    "Label": "Nonchurner",
+    "Unique_ItemId": 9,
+    "Unique_TransactionId": 10,
+    "Total_Quantity_per_Unique_ProductCategory": 5.5,
+    "Total_Quantity": 11,
+    "Total_Quantity_per_Unique_Location": 5.5,
+    "Recency": 53,
+    "Total_Value_per_Unique_Location": 328.5,
+    "Total_Value_per_Unique_ProductCategory": 328.5,
+    "Total_Value": 657,
+    "AvgTimeDelta": 0.0
+  }
+]
