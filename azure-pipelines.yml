@@ -1,3 +1,1 @@
-- task: PythonScript@0
-  inputs:
-    scriptSource: 'score.py'
+print("hello world")
